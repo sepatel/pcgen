@@ -1,4 +1,4 @@
-# Test creating a new branch and seeing how vercel does with it.
+# Test creating a new branch and seeing how vercel does with it and how quickly.
 
 ![PCGenShot](https://user-images.githubusercontent.com/470400/67638917-5f6e8a80-f8c0-11e9-972b-7adf4c9126e7.png)
 
